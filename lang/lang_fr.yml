@@ -1,0 +1,8 @@
+greeting: 'Hello World!'
+
+category:
+  somethingother: 'Something other...'
+
+account:
+  edit: "Edition"
+  addPGP: "ajout PGP"
